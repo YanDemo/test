@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="620306c6-d016-407e-81c7-223d92fddea8" name="Default" comment="" />
+    <list default="true" id="620306c6-d016-407e-81c7-223d92fddea8" name="Default" comment="修改" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,7 +62,7 @@
   <component name="MavenRunner">
     <option name="jreName" value="9.0" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2" />
     <option name="y" value="-17" />
     <option name="width" value="1386" />
@@ -349,7 +349,7 @@
       <workItem from="1539699139139" duration="1209000" />
       <workItem from="1539758495559" duration="1378000" />
       <workItem from="1539760137893" duration="2750000" />
-      <workItem from="1539763630079" duration="1024000" />
+      <workItem from="1539763630079" duration="1489000" />
     </task>
     <task id="LOCAL-00001" summary="真丑">
       <created>1539699912347</created>
@@ -390,10 +390,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6361000" />
+    <option name="totallyTimeSpent" value="6826000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
