@@ -11,7 +11,8 @@ public class test {
         System.out.println("谁说的???");
         System.out.println("谁说的???");
         System.out.println("我说的!!!");
-
+        System.out.println("谁说的???");
+        System.out.println("我说的!!!");
 
     }
 }
